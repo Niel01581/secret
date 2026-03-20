@@ -16,6 +16,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://encrypted-tbn0.gstatic.com/...IHnRah1LJmuHRA3X73pfRgq2mNvpD8015eifvg-4&s=10" group-title="PINOY",GMA 7
 https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="blasttv" tvg-name="Tapsilog TV" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/300024/1280x720/latest.jpg" group-title="Live TV",Tapsilog TV
+https://converse.nathcreqtives.com/blasttv/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJUZXN0aW5nc3RyZWFtIiwiaWF0IjoxNzczOTAxMTMxLCJleHAiOjE3NzQ3NjUxMjMsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3NDc2NTEyMywiYWxsb3dlZE9yaWdpbnMiOltdfQ._9oR3zvOmM-Rn7gPkFlxnq901aafvG0t1z6AI0KDOds
+
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/WcYS3S3.png" ,Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=045d103180f64562b1db7c932741c3ba:c3380548b9075c767a6ae2006ef4bff8
