@@ -11,7 +11,7 @@
 #EXTINF:-1 tvg-id="a2z" tvg-logo="https://i.imgur.com/ftwsljN.png" group-title="Entertainment",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f6d8a2c1b7e4c9f8d52a7e1b0c6f93d:4019f9269b9054a2b9e257b114ebbaf2
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
 
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://encrypted-tbn0.gstatic.com/...IHnRah1LJmuHRA3X73pfRgq2mNvpD8015eifvg-4&s=10" group-title="PINOY",GMA 7
 https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
