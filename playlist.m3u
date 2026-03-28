@@ -21,8 +21,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://encrypted-tbn0.gstatic.com/...IHnRah1LJmuHRA3X73pfRgq2mNvpD8015eifvg-4&s=10" group-title="PINOY",GMA 7
 https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 
-#EXTINF:-1 tvg-id="GIATV-210631" tvg-name="GIA TV 210631" tvg-logo="https://i.imgur.com/8QZQZQZ.png" group-title="Movie Action",Movie Action
-https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="blastmovie" tvg-name="Blast Movie" tvg-logo="https://i.imgur.com/3KXnFQK.png" group-title="Movie Action",Blast Movie
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
