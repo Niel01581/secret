@@ -13,6 +13,11 @@
 #KODIPROP:inputstream.adaptive.license_key=3f6d8a2c1b7e4c9f8d52a7e1b0c6f93d:4019f9269b9054a2b9e257b114ebbaf2
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
 
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Converge",Kapamilya Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
+https://cdn-ue1-prod.tsv2.amagi.tv/...cd312c8-e528-40ec-902c-e4205750ed11/index.mpd
+
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://encrypted-tbn0.gstatic.com/...IHnRah1LJmuHRA3X73pfRgq2mNvpD8015eifvg-4&s=10" group-title="PINOY",GMA 7
 https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 
