@@ -28,6 +28,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=b1c7e9d24f8a4d6c9e337a2f1c5b8d60:8ff2e524cc1e028f2a4d4925e860c796
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
+#EXTINF:-1 tvg-id="SDTVNetworkPH" tvg-name="SDTV Network PH" tvg-logo="https://imgur.com/w8GErfi" group-title="Philippines",SDTV Network PH
+https://sdtvnetworkph.sanmateocable.workers.dev/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SDTVNetworkPH" tvg-name="SDTV Network PH" tvg-logo="https://imgur.com/w8GErfi" group-title="Philippines",SDTV Network PH
+https://sdtvnetworkph.sanmateocable.workers.dev/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://encrypted-tbn0.gstatic.com/...IHnRah1LJmuHRA3X73pfRgq2mNvpD8015eifvg-4&s=10" group-title="PINOY",GMA 7
 https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 
