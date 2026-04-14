@@ -317,7 +317,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
 #EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="Kids",Cartoon Network (Cignal)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://i.imgur.com/4o5dNZA.png" group-title="Kids",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
