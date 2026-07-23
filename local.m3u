@@ -1,250 +1,386 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="[PH] Cinema One" tvg-logo="" group-title="PHILIPPINES",[PH] Cinema One
-https://webhop.live:443/live/juno123/juno123/19206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[PH] GMA News TV" tvg-logo="" group-title="PHILIPPINES",[PH] GMA News TV
-https://webhop.live:443/live/juno123/juno123/19229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[PH] TFC" tvg-logo="" group-title="PHILIPPINES",[PH] TFC
-https://webhop.live:443/live/juno123/juno123/19247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[PH] GMA Pinoy" tvg-logo="" group-title="PHILIPPINES",[PH] GMA Pinoy
-https://webhop.live:443/live/juno123/juno123/19253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[PH] Crime+Investigation" tvg-logo="" group-title="PHILIPPINES",[PH] Crime+Investigation
-https://webhop.live:443/live/juno123/juno123/19255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[PH] beIN Sports2" tvg-logo="" group-title="PHILIPPINES",[PH] beIN Sports2
-https://webhop.live:443/live/juno123/juno123/133702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US (PH) TFC West (SP)" tvg-logo="" group-title="PHILIPPINES",US (PH) TFC West (SP)
-https://webhop.live:443/live/juno123/juno123/150958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US (PH) TFC 2 (SP)" tvg-logo="" group-title="PHILIPPINES",US (PH) TFC 2 (SP)
-https://webhop.live:443/live/juno123/juno123/150959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US (PH) TFC 1 (SP)" tvg-logo="" group-title="PHILIPPINES",US (PH) TFC 1 (SP)
-https://webhop.live:443/live/juno123/juno123/150960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US (PH) GMA Pinoy TV (SP)" tvg-logo="" group-title="PHILIPPINES",US (PH) GMA Pinoy TV (SP)
-https://webhop.live:443/live/juno123/juno123/150961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US (PH) GMA News TV SD (SP)" tvg-logo="" group-title="PHILIPPINES",US (PH) GMA News TV SD (SP)
-https://webhop.live:443/live/juno123/juno123/150962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US (PH) GMA Life TV (SP)" tvg-logo="" group-title="PHILIPPINES",US (PH) GMA Life TV (SP)
-https://webhop.live:443/live/juno123/juno123/150963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH BBC Earth HD (C)" tvg-logo="" group-title="PHILIPPINES",PH BBC Earth HD (C)
-https://webhop.live:443/live/juno123/juno123/150964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH BBC World News (C)" tvg-logo="" group-title="PHILIPPINES",PH BBC World News (C)
-https://webhop.live:443/live/juno123/juno123/150965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH WARNER HD (C)" tvg-logo="" group-title="PHILIPPINES",PH WARNER HD (C)
-https://webhop.live:443/live/juno123/juno123/150966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH RUSH PBA (FHD) (C)" tvg-logo="" group-title="PHILIPPINES",PH RUSH PBA (FHD) (C)
-https://webhop.live:443/live/juno123/juno123/150967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH UAAP Varsity CH (C)" tvg-logo="" group-title="PHILIPPINES",PH UAAP Varsity CH (C)
-https://webhop.live:443/live/juno123/juno123/150968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Tap Sports (C)" tvg-logo="" group-title="PHILIPPINES",PH Tap Sports (C)
-https://webhop.live:443/live/juno123/juno123/150969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Tap Edge Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Tap Edge Channel (C)
-https://webhop.live:443/live/juno123/juno123/150970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Tap Action Flix HD (C)" tvg-logo="" group-title="PHILIPPINES",PH Tap Action Flix HD (C)
-https://webhop.live:443/live/juno123/juno123/150971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH TV5 (C)" tvg-logo="" group-title="PHILIPPINES",PH TV5 (C)
-https://webhop.live:443/live/juno123/juno123/150972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH TAP TV (C)" tvg-logo="" group-title="PHILIPPINES",PH TAP TV (C)
-https://webhop.live:443/live/juno123/juno123/150973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH TAP Movies HD (C)" tvg-logo="" group-title="PHILIPPINES",PH TAP Movies HD (C)
-https://webhop.live:443/live/juno123/juno123/150974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Rock Entertainment (C)" tvg-logo="" group-title="PHILIPPINES",PH Rock Entertainment (C)
-https://webhop.live:443/live/juno123/juno123/150975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Discovery Asia (C)" tvg-logo="" group-title="PHILIPPINES",PH Discovery Asia (C)
-https://webhop.live:443/live/juno123/juno123/150976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Premier Sports HD (C)" tvg-logo="" group-title="PHILIPPINES",PH Premier Sports HD (C)
-https://webhop.live:443/live/juno123/juno123/150978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Paramount Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Paramount Channel (C)
-https://webhop.live:443/live/juno123/juno123/150979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH One news HD (C)" tvg-logo="" group-title="PHILIPPINES",PH One news HD (C)
-https://webhop.live:443/live/juno123/juno123/150980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH One Sports Plus (C)" tvg-logo="" group-title="PHILIPPINES",PH One Sports Plus (C)
-https://webhop.live:443/live/juno123/juno123/150981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Nick Jr (C)" tvg-logo="" group-title="PHILIPPINES",PH Nick Jr (C)
-https://webhop.live:443/live/juno123/juno123/150982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH NHK Japan (C)" tvg-logo="" group-title="PHILIPPINES",PH NHK Japan (C)
-https://webhop.live:443/live/juno123/juno123/150983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH NAT GEO (C)" tvg-logo="" group-title="PHILIPPINES",PH NAT GEO (C)
-https://webhop.live:443/live/juno123/juno123/150984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Moonbug Kids SD (C)" tvg-logo="" group-title="PHILIPPINES",PH Moonbug Kids SD (C)
-https://webhop.live:443/live/juno123/juno123/150985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH KIX HD (C)" tvg-logo="" group-title="PHILIPPINES",PH KIX HD (C)
-https://webhop.live:443/live/juno123/juno123/150986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH K-Plus Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH K-Plus Channel (C)
-https://webhop.live:443/live/juno123/juno123/150987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH HITS HD (C)" tvg-logo="" group-title="PHILIPPINES",PH HITS HD (C)
-https://webhop.live:443/live/juno123/juno123/150988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH France24_DR (C)" tvg-logo="" group-title="PHILIPPINES",PH France24_DR (C)
-https://webhop.live:443/live/juno123/juno123/150990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH EWTN_DR (C)" tvg-logo="" group-title="PHILIPPINES",PH EWTN_DR (C)
-https://webhop.live:443/live/juno123/juno123/150992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH EGG (C)" tvg-logo="" group-title="PHILIPPINES",PH EGG (C)
-https://webhop.live:443/live/juno123/juno123/150993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Dreamworks HD (C)" tvg-logo="" group-title="PHILIPPINES",PH Dreamworks HD (C)
-https://webhop.live:443/live/juno123/juno123/150994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH DepEd (C)" tvg-logo="" group-title="PHILIPPINES",PH DepEd (C)
-https://webhop.live:443/live/juno123/juno123/150995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH CNN HD (C)" tvg-logo="" group-title="PHILIPPINES",PH CNN HD (C)
-https://webhop.live:443/live/juno123/juno123/150997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH CNN (C)" tvg-logo="" group-title="PHILIPPINES",PH CNN (C)
-https://webhop.live:443/live/juno123/juno123/150998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH CCTV 4 (C)" tvg-logo="" group-title="PHILIPPINES",PH CCTV 4 (C)
-https://webhop.live:443/live/juno123/juno123/150999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Blue Ant Extreme Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Blue Ant Extreme Channel (C)
-https://webhop.live:443/live/juno123/juno123/151001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Be in sports 2 (C)" tvg-logo="" group-title="PHILIPPINES",PH Be in sports 2 (C)
-https://webhop.live:443/live/juno123/juno123/151002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH BUKO Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH BUKO Channel (C)
-https://webhop.live:443/live/juno123/juno123/151004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH BOOMERANG (C)" tvg-logo="" group-title="PHILIPPINES",PH BOOMERANG (C)
-https://webhop.live:443/live/juno123/juno123/151005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Aniplus Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Aniplus Channel (C)
-https://webhop.live:443/live/juno123/juno123/151006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH ARIRANG TV WORLD (C)" tvg-logo="" group-title="PHILIPPINES",PH ARIRANG TV WORLD (C)
-https://webhop.live:443/live/juno123/juno123/151007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH ANIMAL PLANET (C)" tvg-logo="" group-title="PHILIPPINES",PH ANIMAL PLANET (C)
-https://webhop.live:443/live/juno123/juno123/151008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH AL JAZEERA (C)" tvg-logo="" group-title="PHILIPPINES",PH AL JAZEERA (C)
-https://webhop.live:443/live/juno123/juno123/151009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH A2Z (C)" tvg-logo="" group-title="PHILIPPINES",PH A2Z (C)
-https://webhop.live:443/live/juno123/juno123/151010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH One News HD (C)" tvg-logo="" group-title="PHILIPPINES",PH One News HD (C)
-https://webhop.live:443/live/juno123/juno123/151012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH One News SD (C)" tvg-logo="" group-title="PHILIPPINES",PH One News SD (C)
-https://webhop.live:443/live/juno123/juno123/151013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH NHK WORLD (C)" tvg-logo="" group-title="PHILIPPINES",PH NHK WORLD (C)
-https://webhop.live:443/live/juno123/juno123/151014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH EWTN (C)" tvg-logo="" group-title="PHILIPPINES",PH EWTN (C)
-https://webhop.live:443/live/juno123/juno123/151015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Teleradio (D)" tvg-logo="" group-title="PHILIPPINES",PH Teleradio (D)
-https://webhop.live:443/live/juno123/juno123/151016.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH ANC (D)" tvg-logo="" group-title="PHILIPPINES",PH ANC (D)
-https://webhop.live:443/live/juno123/juno123/151017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) FILIPINO (E)" tvg-logo="" group-title="PHILIPPINES",CA (PH) FILIPINO (E)
-https://webhop.live:443/live/juno123/juno123/151018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA LIFE (E)" tvg-logo="" group-title="PHILIPPINES",CA (PH) GMA LIFE (E)
-https://webhop.live:443/live/juno123/juno123/151019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA NEWS (E)" tvg-logo="" group-title="PHILIPPINES",CA (PH) GMA NEWS (E)
-https://webhop.live:443/live/juno123/juno123/151020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA PINOY (E)" tvg-logo="" group-title="PHILIPPINES",CA (PH) GMA PINOY (E)
-https://webhop.live:443/live/juno123/juno123/151021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) KAPATID 5 (E)" tvg-logo="" group-title="PHILIPPINES",CA (PH) KAPATID 5 (E)
-https://webhop.live:443/live/juno123/juno123/151022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) TFC (E)" tvg-logo="" group-title="PHILIPPINES",CA (PH) TFC (E)
-https://webhop.live:443/live/juno123/juno123/151023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Cinema One Global (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) Cinema One Global (B)
-https://webhop.live:443/live/juno123/juno123/151024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Filipino TV (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) Filipino TV (B)
-https://webhop.live:443/live/juno123/juno123/151025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA Life TV (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) GMA Life TV (B)
-https://webhop.live:443/live/juno123/juno123/151026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA News TV (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) GMA News TV (B)
-https://webhop.live:443/live/juno123/juno123/151027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA Pinoy TV (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) GMA Pinoy TV (B)
-https://webhop.live:443/live/juno123/juno123/151028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Kapatid TV5 (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) Kapatid TV5 (B)
-https://webhop.live:443/live/juno123/juno123/151029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Lifestyle Network (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) Lifestyle Network (B)
-https://webhop.live:443/live/juno123/juno123/151030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA (PH) TFC (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) TFC (B)
-https://webhop.live:443/live/juno123/juno123/151031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH ABC Austrailia (C)" tvg-logo="" group-title="PHILIPPINES",PH ABC Austrailia (C)
-https://webhop.live:443/live/juno123/juno123/151032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH ASIAN FOOD CHANNEL (C)" tvg-logo="" group-title="PHILIPPINES",PH ASIAN FOOD CHANNEL (C)
-https://webhop.live:443/live/juno123/juno123/151033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH ANIMAX (C)" tvg-logo="" group-title="PHILIPPINES",PH ANIMAX (C)
-https://webhop.live:443/live/juno123/juno123/151034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arabic TFC" tvg-logo="" group-title="PHILIPPINES",Arabic TFC
-https://webhop.live:443/live/juno123/juno123/151035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH AXN (C)" tvg-logo="" group-title="PHILIPPINES",PH AXN (C)
-https://webhop.live:443/live/juno123/juno123/151036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH CELESTIAL MOVIE PINOY (C)" tvg-logo="" group-title="PHILIPPINES",PH CELESTIAL MOVIE PINOY (C)
-https://webhop.live:443/live/juno123/juno123/151038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Cinema One (D)" tvg-logo="" group-title="PHILIPPINES",PH Cinema One (D)
-https://webhop.live:443/live/juno123/juno123/151040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo (C)" tvg-logo="" group-title="PHILIPPINES",PH Cinemo (C)
-https://webhop.live:443/live/juno123/juno123/151041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo APAC (D)" tvg-logo="" group-title="PHILIPPINES",PH Cinemo APAC (D)
-https://webhop.live:443/live/juno123/juno123/151042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo EMEA (D)" tvg-logo="" group-title="PHILIPPINES",PH Cinemo EMEA (D)
-https://webhop.live:443/live/juno123/juno123/151043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo Nola (D)" tvg-logo="" group-title="PHILIPPINES",PH Cinemo Nola (D)
-https://webhop.live:443/live/juno123/juno123/151044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH CHANNEL NEWS ASIA (C)" tvg-logo="" group-title="PHILIPPINES",PH CHANNEL NEWS ASIA (C)
-https://webhop.live:443/live/juno123/juno123/151045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH CNN (D)" tvg-logo="" group-title="PHILIPPINES",PH CNN (D)
-https://webhop.live:443/live/juno123/juno123/151046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH CNN Philipines (C)" tvg-logo="" group-title="PHILIPPINES",PH CNN Philipines (C)
-https://webhop.live:443/live/juno123/juno123/151047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Discovery Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Discovery Channel (C)
-https://webhop.live:443/live/juno123/juno123/151048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH ONE SPORTS (C)" tvg-logo="" group-title="PHILIPPINES",PH ONE SPORTS (C)
-https://webhop.live:443/live/juno123/juno123/151049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH GMA LIFE (D)" tvg-logo="" group-title="PHILIPPINES",PH GMA LIFE (D)
-https://webhop.live:443/live/juno123/juno123/151052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH GMA News TV (D)" tvg-logo="" group-title="PHILIPPINES",PH GMA News TV (D)
-https://webhop.live:443/live/juno123/juno123/151053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH GMA Pinoy TV (D)" tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (D)
-https://webhop.live:443/live/juno123/juno123/151054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Hillsong Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Hillsong Channel (C)
-https://webhop.live:443/live/juno123/juno123/151055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH HITS Movies (C)" tvg-logo="" group-title="PHILIPPINES",PH HITS Movies (C)
-https://webhop.live:443/live/juno123/juno123/151056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH IBC13 (C)" tvg-logo="" group-title="PHILIPPINES",PH IBC13 (C)
-https://webhop.live:443/live/juno123/juno123/151057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Kapamilya (D)" tvg-logo="" group-title="PHILIPPINES",PH Kapamilya (D)
-https://webhop.live:443/live/juno123/juno123/151058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Kapamilya Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Kapamilya Channel (C)
-https://webhop.live:443/live/juno123/juno123/151059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Knowledge Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Knowledge Channel (C)
-https://webhop.live:443/live/juno123/juno123/151061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Knowledge Channel (D)" tvg-logo="" group-title="PHILIPPINES",PH Knowledge Channel (D)
-https://webhop.live:443/live/juno123/juno123/151062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH LIGHT TV (C)" tvg-logo="" group-title="PHILIPPINES",PH LIGHT TV (C)
-https://webhop.live:443/live/juno123/juno123/151063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH LIGHT TV (D)" tvg-logo="" group-title="PHILIPPINES",PH LIGHT TV (D)
-https://webhop.live:443/live/juno123/juno123/151064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH MTV Asia (C)" tvg-logo="" group-title="PHILIPPINES",PH MTV Asia (C)
-https://webhop.live:443/live/juno123/juno123/151065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH MYX (D)" tvg-logo="" group-title="PHILIPPINES",PH MYX (D)
-https://webhop.live:443/live/juno123/juno123/151066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Nick (C)" tvg-logo="" group-title="PHILIPPINES",PH Nick (C)
-https://webhop.live:443/live/juno123/juno123/151067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH One (C)" tvg-logo="" group-title="PHILIPPINES",PH One (C)
-https://webhop.live:443/live/juno123/juno123/151068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Cinema World (C)" tvg-logo="" group-title="PHILIPPINES",PH Cinema World (C)
-https://webhop.live:443/live/juno123/juno123/151069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ph ONE Sport (C)" tvg-logo="" group-title="PHILIPPINES",Ph ONE Sport (C)
-https://webhop.live:443/live/juno123/juno123/151070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Outdoor Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Outdoor Channel (C)
-https://webhop.live:443/live/juno123/juno123/151071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH PBO (C)" tvg-logo="" group-title="PHILIPPINES",PH PBO (C)
-https://webhop.live:443/live/juno123/juno123/151072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH NBN 4 (C)" tvg-logo="" group-title="PHILIPPINES",PH NBN 4 (C)
-https://webhop.live:443/live/juno123/juno123/151073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH PTV4 (D)" tvg-logo="" group-title="PHILIPPINES",PH PTV4 (D)
-https://webhop.live:443/live/juno123/juno123/151074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH SARI SARI (C)" tvg-logo="" group-title="PHILIPPINES",PH SARI SARI (C)
-https://webhop.live:443/live/juno123/juno123/151075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH TeleNovela (C)" tvg-logo="" group-title="PHILIPPINES",PH TeleNovela (C)
-https://webhop.live:443/live/juno123/juno123/151076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC (D)
-https://webhop.live:443/live/juno123/juno123/151077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC Asia (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC Asia (D)
-https://webhop.live:443/live/juno123/juno123/151078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC Australia (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC Australia (D)
-https://webhop.live:443/live/juno123/juno123/151079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC Canada (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC Canada (D)
-https://webhop.live:443/live/juno123/juno123/151080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC Europe (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC Europe (D)
-https://webhop.live:443/live/juno123/juno123/151081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC Middle East (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC Middle East (D)
-https://webhop.live:443/live/juno123/juno123/151082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC USA (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC USA (D)
-https://webhop.live:443/live/juno123/juno123/151083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH thill (C)" tvg-logo="" group-title="PHILIPPINES",PH thill (C)
-https://webhop.live:443/live/juno123/juno123/151084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH TLC (C)" tvg-logo="" group-title="PHILIPPINES",PH TLC (C)
-https://webhop.live:443/live/juno123/juno123/151085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH Travel Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Travel Channel (C)
-https://webhop.live:443/live/juno123/juno123/151086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PH VIVA CINEMA (C)" tvg-logo="" group-title="PHILIPPINES",PH VIVA CINEMA (C)
 
-https://webhop.live:443/live/juno123/juno123/151090.m3u8
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Bilyonaryo CH",Bilyonaryo CH
+#KODIPROP:inputstream.adaptive.license_key=2e7f9c518a424d30b2165c3e7a9d6041:8c8c0ef924c982bc1dd92348e024cd4c
+#KEY: 2e7f9c518a424d30b2165c3e7a9d6041:8c8c0ef924c982bc1dd92348e024cd4c
+https://ucdn.mediaquest.com.ph/bpk-tv/bilyonaryoch/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CNN RPTV HD",CNN RPTV HD
+#KODIPROP:inputstream.adaptive.license_key=b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb
+#KEY: b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb
+https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="TrueFM TV",TrueFM TV
+#KODIPROP:inputstream.adaptive.license_key=8c4e9a516d724f30b2187a3c5e9d6041:e25c167573772b510ff8e5282560a349
+#KEY: 8c4e9a516d724f30b2187a3c5e9d6041:e25c167573772b510ff8e5282560a349
+https://ucdn.mediaquest.com.ph/bpk-tv/truefm_tv/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Hits Now",CG Hits Now
+#KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
+#KEY: 24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hitsnow/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG HBO HD",CG HBO HD
+#KODIPROP:inputstream.adaptive.license_key=d7f3c8215a944e068b176c9d2a5f3048:93c0a798243d6443864d1a7ff3e42c05
+#KEY: d7f3c8215a944e068b176c9d2a5f3048:93c0a798243d6443864d1a7ff3e42c05
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="TV Maria",TV Maria
+#KODIPROP:inputstream.adaptive.license_key=6a2d9f815c744e30b9168f3a7d2c5049:fb07ec8ca16ffdb8b8a045fa4c8aac74
+#KEY: 6a2d9f815c744e30b9168f3a7d2c5049:fb07ec8ca16ffdb8b8a045fa4c8aac74
+https://ucdn.mediaquest.com.ph/bpk-tv/tvmaria_prd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG HBO Family",CG HBO Family
+#KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
+#KEY: c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Cinemax",CG Cinemax
+#KODIPROP:inputstream.adaptive.license_key=d7a9c5215e364b809f148c2d6a7e3045:c92a3b4a7fe9fab97c130468260b963f
+#KEY: d7a9c5215e364b809f148c2d6a7e3045:c92a3b4a7fe9fab97c130468260b963f
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_cinemax/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Lotus Macau",Lotus Macau
+#KODIPROP:inputstream.adaptive.license_key=e2c9a5748b314f60a9276d5e3c1f8042:c845cc41e3826b6d880b802911eb43f9
+#KEY: e2c9a5748b314f60a9276d5e3c1f8042:c845cc41e3826b6d880b802911eb43f9
+https://ucdn.mediaquest.com.ph/bpk-tv/lotusmacau_prd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG HBO Signature",CG HBO Signature
+#KODIPROP:inputstream.adaptive.license_key=74d8f5916c234b80a9179e5d3c7a2046:f8d2753ff54579efc01d3373acf21f96
+#KEY: 74d8f5916c234b80a9179e5d3c7a2046:f8d2753ff54579efc01d3373acf21f96
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG HBO Hits",CG HBO Hits
+#KODIPROP:inputstream.adaptive.license_key=3e8c5a917d424f06b2196a5c9e2d8043:516c47ccef00a12421d9805c8c1c6c1d
+#KEY: 3e8c5a917d424f06b2196a5c9e2d8043:516c47ccef00a12421d9805c8c1c6c1d
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG TVN Movie",CG TVN Movie
+#KODIPROP:inputstream.adaptive.license_key=e6c9a4215d734f608b197c3e2a5d9048:ec695ab203cb2258db220b3863e2a7ee
+#KEY: e6c9a4215d734f608b197c3e2a5d9048:ec695ab203cb2258db220b3863e2a7ee
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Dreamworks Tagalog",CG Dreamworks Tagalog
+#KODIPROP:inputstream.adaptive.license_key=6f9c3a218d454b70a2187e5c3d6f9042:337ca7b74b462dd1ba7441553614538a
+#KEY: 6f9c3a218d454b70a2187e5c3d6f9042:337ca7b74b462dd1ba7441553614538a
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG TVN Pre",CG TVN Pre
+#KODIPROP:inputstream.adaptive.license_key=3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91
+#KEY: 3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Tagalog Movie",CG Tagalog Movie
+#KODIPROP:inputstream.adaptive.license_key=27f6c4818a534d09b2169e5c7a3f6048:fbd8e319511ff5a1593f5b68da7b81cd
+#KEY: 27f6c4818a534d09b2169e5c7a3f6048:fbd8e319511ff5a1593f5b68da7b81cd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_tagalogmovie/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Kapatid HD",Kapatid HD
+#KODIPROP:inputstream.adaptive.license_key=8f7a2c913d6b4e5a9f127c8d4e6a1b90:a73d3d1211fb23084c62572706f45397
+#KEY: 8f7a2c913d6b4e5a9f127c8d4e6a1b90:a73d3d1211fb23084c62572706f45397
+https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Global Trekker",Global Trekker
+#KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
+#KEY: e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
+https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CGTN",CGTN
+#KODIPROP:inputstream.adaptive.license_key=f2a7d6318c544b099e216d5f3a7c8042:1abff1626a5403fa2ea8964c2f3b9c1d
+#KEY: f2a7d6318c544b099e216d5f3a7c8042:1abff1626a5403fa2ea8964c2f3b9c1d
+https://ucdn.mediaquest.com.ph/bpk-tv/cgtn/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CGNL NBA",CGNL NBA
+#KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
+#KEY: 2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
+https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="TV5 Vibe TV",TV5 Vibe TV
+#KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
+#KEY: 9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
+https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Cartoon Network HD",Cartoon Network HD
+#KODIPROP:inputstream.adaptive.license_key=53c8e6914d724f30a9168b5e2c7d1043:1e17afbdfff786533796780f3f04aa67
+#KEY: 53c8e6914d724f30a9168b5e2c7d1043:1e17afbdfff786533796780f3f04aa67
+https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG CNN HD",CG CNN HD
+#KODIPROP:inputstream.adaptive.license_key=1d9f6b828c454a17b2395e7d3f90a621:c5776d83cbf50c9354f27b1c830e1996
+#KEY: 1d9f6b828c454a17b2395e7d3f90a621:c5776d83cbf50c9354f27b1c830e1996
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_cnnhd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG A2Z",CG A2Z
+#KODIPROP:inputstream.adaptive.license_key=f3a8c9126e544d809b312c7f5a8e6140:43f5361983896b47ff01b4f77c5dbf3f
+#KEY: f3a8c9126e544d809b312c7f5a8e6140:43f5361983896b47ff01b4f77c5dbf3f
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Dreamworks HD",CG Dreamworks HD
+#KODIPROP:inputstream.adaptive.license_key=1f7c9a425d864e30b2198a3c6f7d5041:b392ee3cd42686a8cff3070eef614745
+#KEY: 1f7c9a425d864e30b2198a3c6f7d5041:b392ee3cd42686a8cff3070eef614745
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Animal Planet SD",CG Animal Planet SD
+#KODIPROP:inputstream.adaptive.license_key=3c8e5a927d414b069f236a5c8e1d7049:a9b9198bf7b116b30492aea4dc471122
+#KEY: 3c8e5a927d414b069f236a5c8e1d7049:a9b9198bf7b116b30492aea4dc471122
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_animal_planet_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Spotv HD",CG Spotv HD
+#KODIPROP:inputstream.adaptive.license_key=c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
+#KEY: c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_spotvhd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG PTV4 SD",CG PTV4 SD
+#KODIPROP:inputstream.adaptive.license_key=f8c2a6915d744b309e186a3f7c2d8049:1ad3243b38c60312caa6ba11f150c19c
+#KEY: f8c2a6915d744b309e186a3f7c2d8049:1ad3243b38c60312caa6ba11f150c19c
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_ptv4_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG PS HD",CG PS HD
+#KODIPROP:inputstream.adaptive.license_key=91e4c6725a834d198f602c7b9e3a5148:4185d260443198690be03e294fdc1240
+#KEY: 91e4c6725a834d198f602c7b9e3a5148:4185d260443198690be03e294fdc1240
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_ps_hd1/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DR Rock Extreme",DR Rock Extreme
+#KODIPROP:inputstream.adaptive.license_key=d9a4f5218c374b069e156f2d7a3c8049:72aa902f471adf15bef2710b6b689ed0
+#KEY: d9a4f5218c374b069e156f2d7a3c8049:72aa902f471adf15bef2710b6b689ed0
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockextreme/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DR Tap Sports",DR Tap Sports
+#KODIPROP:inputstream.adaptive.license_key=a6d4f8912c734b608e159f3a7d5c2046:ec647e6c500235352a8df03c518e9b23
+#KEY: a6d4f8912c734b608e159f3a7d5c2046:ec647e6c500235352a8df03c518e9b23
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_tapsports/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG BBC Earth HD",CG BBC Earth HD
+#KODIPROP:inputstream.adaptive.license_key=4f9c6e217a354d80b9268e5c3f1a7042:41b33eebbacf91fe6c86bd28081bf3fd
+#KEY: 4f9c6e217a354d80b9268e5c3f1a7042:41b33eebbacf91fe6c86bd28081bf3fd
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbcearth_hd1/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG One Sports Plus HD",CG One Sports Plus HD
+#KODIPROP:inputstream.adaptive.license_key=e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26
+#KEY: e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DR Spotv2 HD",DR Spotv2 HD
+#KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
+#KEY: b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DR Rock Entertainment",DR Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_key=86e5c7921a434f60b9287d3c9e5a6041:fab817af24eab2a73ae89145797cf556
+#KEY: 86e5c7921a434f60b9287d3c9e5a6041:fab817af24eab2a73ae89145797cf556
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockentertainment/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Discovery",Discovery
+#KODIPROP:inputstream.adaptive.license_key=d5a7f8219c364e50b2147f6d3a8c9025:c77d5e56c52c4065c42594422ac85e2c
+#KEY: d5a7f8219c364e50b2147f6d3a8c9025:c77d5e56c52c4065c42594422ac85e2c
+https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DR CCTV4",DR CCTV4
+#KODIPROP:inputstream.adaptive.license_key=83e5c4917d624b00a2196f3c8a5e2047:d8fae6a24d5df3fa8e17a8f4a4854426
+#KEY: 83e5c4917d624b00a2196f3c8a5e2047:d8fae6a24d5df3fa8e17a8f4a4854426
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_cctv4/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG PBA Rush HD",CG PBA Rush HD
+#KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
+#KEY: 91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Arirang SD",Arirang SD
+#KODIPROP:inputstream.adaptive.license_key=7d4f9c216a834e508b165c3a7d9e2048:9d148906d890053a00f5e581185ac066
+#KEY: 7d4f9c216a834e508b165c3a7d9e2048:9d148906d890053a00f5e581185ac066
+https://ucdn.mediaquest.com.ph/bpk-tv/arirang_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="KBS World",KBS World
+#KODIPROP:inputstream.adaptive.license_key=e8c5d2317a944f06b2186d3a9e7c5042:ce327be0871677eb1c480d10a73eac34
+#KEY: e8c5d2317a944f06b2186d3a9e7c5042:ce327be0871677eb1c480d10a73eac34
+https://ucdn.mediaquest.com.ph/bpk-tv/kbsworld/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="One News HD",One News HD
+#KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
+#KEY: d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
+https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Kix HD",Kix HD
+#KODIPROP:inputstream.adaptive.license_key=7f4a9c312e854d67b0198c6f5a3e7240:141f058ad1a6230e7c6f9d302ce378ef
+#KEY: 7f4a9c312e854d67b0198c6f5a3e7240:141f058ad1a6230e7c6f9d302ce378ef
+https://ucdn.mediaquest.com.ph/bpk-tv/kix_hd1/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DR Lifetime",DR Lifetime
+#KODIPROP:inputstream.adaptive.license_key=b9e6a3214c754f908d165a3c7e2f6048:32300d9517f91a4acb747d360768dd00
+#KEY: b9e6a3214c754f908d165a3c7e2f6048:32300d9517f91a4acb747d360768dd00
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_lifetime/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="BBC World News SD",BBC World News SD
+#KODIPROP:inputstream.adaptive.license_key=f1a6e8329c574b048d216e5f3a7c9048:8106237b47f99be13f4e941ca5bd35c5
+#KEY: f1a6e8329c574b048d216e5f3a7c9048:8106237b47f99be13f4e941ca5bd35c5
+https://ucdn.mediaquest.com.ph/bpk-tv/bbcworld_news_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="HGTV HD",HGTV HD
+#KODIPROP:inputstream.adaptive.license_key=4e9a6c317d524f808b163c5a2e7d9048:5079e2288b584f47d4bbf8d149b2a986
+#KEY: 4e9a6c317d524f808b163c5a2e7d9048:5079e2288b584f47d4bbf8d149b2a986
+https://ucdn.mediaquest.com.ph/bpk-tv/hgtv_hd1/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG UAAP Cplay SD",CG UAAP Cplay SD
+#KODIPROP:inputstream.adaptive.license_key=b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
+#KEY: b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Travel Channel SD",Travel Channel SD
+#KODIPROP:inputstream.adaptive.license_key=18c6f9235b744d81a0397e2c9f6a5048:7974c1376447c563f5fdb41be0104ddf
+#KEY: 18c6f9235b744d81a0397e2c9f6a5048:7974c1376447c563f5fdb41be0104ddf
+https://ucdn.mediaquest.com.ph/bpk-tv/travel_channel_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Premier Sports 2 HD",Premier Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_key=72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03
+#KEY: 72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03
+https://ucdn.mediaquest.com.ph/bpk-tv/premiersports2hd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Hits HD",Hits HD
+#KODIPROP:inputstream.adaptive.license_key=d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
+#KEY: d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
+https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DR Al Jazeera",DR Al Jazeera
+#KODIPROP:inputstream.adaptive.license_key=73c5f8919d424b06a2186e7c3a5d9040:bf46e85e8fba9f0eae0931394d478d25
+#KEY: 73c5f8919d424b06a2186e7c3a5d9040:bf46e85e8fba9f0eae0931394d478d25
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_aljazeera/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="One PH SD",One PH SD
+#KODIPROP:inputstream.adaptive.license_key=5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266
+#KEY: 5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266
+https://ucdn.mediaquest.com.ph/bpk-tv/oneph_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Food Network HD",CG Food Network HD
+#KODIPROP:inputstream.adaptive.license_key=b1f4a8926c374d509e218a7c3f5d6049:15cde0b44b44f38ea936513a99606c1b
+#KEY: b1f4a8926c374d509e218a7c3f5d6049:15cde0b44b44f38ea936513a99606c1b
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DepEd CH SD",DepEd CH SD
+#KODIPROP:inputstream.adaptive.license_key=c1a5e8329d644f70b2187a3c6e5d2041:55979431f291f7dff35a43b73b3c2a36
+#KEY: c1a5e8329d644f70b2187a3c6e5d2041:55979431f291f7dff35a43b73b3c2a36
+https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="TV5",TV5
+#KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
+#KEY: 9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
+https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DR History HD",DR History HD
+#KODIPROP:inputstream.adaptive.license_key=f5c7a8219d464e30b2186a3f7c5d9041:dacc84b7010ca22f8c63a7c290461ed3
+#KEY: f5c7a8219d464e30b2186a3f7c5d9041:dacc84b7010ca22f8c63a7c290461ed3
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_historyhd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Fashion TV HD",Fashion TV HD
+#KODIPROP:inputstream.adaptive.license_key=c8a4e6917f324d05b9186c5e3a2f7049:92b4ece8c84379145045267b47f183d2
+#KEY: c8a4e6917f324d05b9186c5e3a2f7049:92b4ece8c84379145045267b47f183d2
+https://ucdn.mediaquest.com.ph/bpk-tv/fashiontvhd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Cel Movie Pinoy SD",Cel Movie Pinoy SD
+#KODIPROP:inputstream.adaptive.license_key=35f8d6917a424b059e166c3a7d5f8049:76830e1bcb5819f76b7c515e9d65cc31
+#KEY: 35f8d6917a424b059e166c3a7d5f8049:76830e1bcb5819f76b7c515e9d65cc31
+https://ucdn.mediaquest.com.ph/bpk-tv/celmovie_pinoy_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Bloomberg SD",Bloomberg SD
+#KODIPROP:inputstream.adaptive.license_key=19f6c8325a744d90b2618e3f7c2a5049:784fffb38dc4fb6d5b74de822074feb4
+#KEY: 19f6c8325a744d90b2618e3f7c2a5049:784fffb38dc4fb6d5b74de822074feb4
+https://ucdn.mediaquest.com.ph/bpk-tv/bloomberg_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DR NHK Japan",DR NHK Japan
+#KODIPROP:inputstream.adaptive.license_key=a3d7f5916c824e09b2158a5c3f7d2046:32d760047f05c233d9dae35083fe0b30
+#KEY: a3d7f5916c824e09b2158a5c3f7d2046:32d760047f05c233d9dae35083fe0b30
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_nhk_japan/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Asian Food Network SD",Asian Food Network SD
+#KODIPROP:inputstream.adaptive.license_key=f4b7c8219e364a058d295c6f3e7a1042:d10c7f2a37c1079e6b83837423c0d6b2
+#KEY: f4b7c8219e364a058d295c6f3e7a1042:d10c7f2a37c1079e6b83837423c0d6b2
+https://ucdn.mediaquest.com.ph/bpk-tv/asianfoodnetwork_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG One Sports HD",CG One Sports HD
+#KODIPROP:inputstream.adaptive.license_key=69f5a2318d744c609b125e3a7d8f2046:182523c0bae912e17e916dd4283280e9
+#KEY: 69f5a2318d744c609b125e3a7d8f2046:182523c0bae912e17e916dd4283280e9
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DR Nick Jr.",DR Nick Jr.
+#KODIPROP:inputstream.adaptive.license_key=ca7e5b318d624f099c246a3e7d5f8140:3175f0646c504fad87e97c7677a85393
+#KEY: ca7e5b318d624f099c246a3e7d5f8140:3175f0646c504fad87e97c7677a85393
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickjr/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Warner HD",CG Warner HD
+#KODIPROP:inputstream.adaptive.license_key=c4a8d5319e624f078b156d3c7a5e2049:cee9422b4a40d85589f36f1d76fb144f
+#KEY: c4a8d5319e624f078b156d3c7a5e2049:cee9422b4a40d85589f36f1d76fb144f
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_warnerhd/default1/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Animax SD",CG Animax SD
+#KODIPROP:inputstream.adaptive.license_key=a7d3f5916c844b209e158f3a7d5c2046:021fe5515e7dfb1a00a98d51abd0cb7f
+#KEY: a7d3f5916c844b209e158f3a7d5c2046:021fe5515e7dfb1a00a98d51abd0cb7f
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_animax_sd_new/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="IBC 13 SD",IBC 13 SD
+#KODIPROP:inputstream.adaptive.license_key=f4a8d6216c954e709b187d3a5f2c8049:34710df996a4089ee6f7e8deb7f46586
+#KEY: f4a8d6216c954e709b187d3a5f2c8049:34710df996a4089ee6f7e8deb7f46586
+https://ucdn.mediaquest.com.ph/bpk-tv/ibc13_sd_new/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG AXN SD",CG AXN SD
+#KODIPROP:inputstream.adaptive.license_key=c7e5a2199d644b318f702a6c4e5d8139:300778996b5a71594db508982256f365
+#KEY: c7e5a2199d644b318f702a6c4e5d8139:300778996b5a71594db508982256f365
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_axn_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Tap Movies HD",CG Tap Movies HD
+#KODIPROP:inputstream.adaptive.license_key=65d8c4912f734a90b8163e7c5d9a2041:fd495b984013da4e26f83b1a921c0a15
+#KEY: 65d8c4912f734a90b8163e7c5d9a2041:fd495b984013da4e26f83b1a921c0a15
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_tapmovies_hd1/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Moonbug Kids SD",CG Moonbug Kids SD
+#KODIPROP:inputstream.adaptive.license_key=48e7d3219c564f80b2147a5d3e6c2048:23a7b41054c60983ad020652f7ffa06e
+#KEY: 48e7d3219c564f80b2147a5d3e6c2048:23a7b41054c60983ad020652f7ffa06e
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="France 24",France 24
+#KODIPROP:inputstream.adaptive.license_key=92d8f3416c754b09a2187e5d3a9c6042:4e668d238bc656b7d2c7535757aa9531
+#KEY: 92d8f3416c754b09a2187e5d3a9c6042:4e668d238bc656b7d2c7535757aa9531
+https://ucdn.mediaquest.com.ph/bpk-tv/france24/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="ABC Australia",ABC Australia
+#KODIPROP:inputstream.adaptive.license_key=ab3d7e816f254c9490185d2a8f7e3640:a3bbc044cac690469a243c43f642c467
+#KEY: ab3d7e816f254c9490185d2a8f7e3640:a3bbc044cac690469a243c43f642c467
+https://ucdn.mediaquest.com.ph/bpk-tv/abc_aus/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Hits Movies",Hits Movies
+#KODIPROP:inputstream.adaptive.license_key=45c9e7328b614d059f247a6c3e5d1048:13ef5feae7c84eb06bcc655a225fb01d
+#KEY: 45c9e7328b614d059f247a6c3e5d1048:13ef5feae7c84eb06bcc655a225fb01d
+https://ucdn.mediaquest.com.ph/bpk-tv/hitsmovies/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Channel News Asia",Channel News Asia
+#KODIPROP:inputstream.adaptive.license_key=56d8c4917a234e60b9159f3a6c7d2048:e6f0a100b6a2fcda66e8554f8c9b510b
+#KEY: 56d8c4917a234e60b9159f3a6c7d2048:e6f0a100b6a2fcda66e8554f8c9b510b
+https://ucdn.mediaquest.com.ph/bpk-tv/channelnewsasia/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="CG Thrill SD",CG Thrill SD
+#KODIPROP:inputstream.adaptive.license_key=b8c3d5906e424f17a9215d8c7a2e6043:02ce48f1b48f7cbdc3e2703a56e8fa31
+#KEY: b8c3d5906e424f17a9215d8c7a2e6043:02ce48f1b48f7cbdc3e2703a56e8fa31
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_thrill_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Crime Investigation",Crime Investigation
+#KODIPROP:inputstream.adaptive.license_key=e7a3d5916c824b459f105d8e2c7a3046:616f8ab0c416966e8de415cb60e9e6cf
+#KEY: e7a3d5916c824b459f105d8e2c7a3046:616f8ab0c416966e8de415cb60e9e6cf
+https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Buko",Buko
+#KODIPROP:inputstream.adaptive.license_key=c8b1d5f42a674e93b8016f2d9c7a5e34:168bbf02d7eca252a61a402e25cb33f5
+#KEY: c8b1d5f42a674e93b8016f2d9c7a5e34:168bbf02d7eca252a61a402e25cb33f5
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_buko_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="Knowledge Channel",Knowledge Channel
+#KODIPROP:inputstream.adaptive.license_key=84d2f6917b354c08a9163e5d8f2a7049:192c69ef479dd7e3fccc908d6c5dbb3a
+#KEY: 84d2f6917b354c08a9163e5d8f2a7049:192c69ef479dd7e3fccc908d6c5dbb3a
+https://ucdn.mediaquest.com.ph/bpk-tv/knowledge_channel/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DR TV5 Monde",DR TV5 Monde
+#KODIPROP:inputstream.adaptive.license_key=e6b4c8217a954d309f165c8e2a3d7049:1acbc3a347d31fa2236f180574342e71
+#KEY: e6b4c8217a954d309f165c8e2a3d7049:1acbc3a347d31fa2236f180574342e71
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_tv5_monde/default/index.mpd
+
+#EXTINF:-1 group-title="Channels" tvg-logo="" tvg-name="DR Nickelodeon",DR Nickelodeon
+#KODIPROP:inputstream.adaptive.license_key=81f3e6924c754a08b9215d7e9c3f6048:094cd48e9729cb8bcb0e03e848fc8751
+#KEY: 81f3e6924c754a08b9215d7e9c3f6048:094cd48e9729cb8bcb0e03e848fc8751
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickelodeon/default/index.mpd
